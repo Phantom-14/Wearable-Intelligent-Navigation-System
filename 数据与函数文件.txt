@@ -1,0 +1,11 @@
+形如MT_01500291_007-000.txt的文件
+kalm_gps_init_15D
+align_cal
+veloN0
+atti_cal_cq_modi //四元数算法
+velo_cal
+posi_cal
+simu_gps
+kalm_gps_15D
+kalm_modi
+mag_head
